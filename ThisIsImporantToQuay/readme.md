@@ -5,7 +5,7 @@
 ```mermaid
 graph LR
 A[ShaQuaya Wilson] --> #B((Family))
-A  --> C(Food)
+A  --> C(Food :fire:)
 A --> D{Trying new Things}
 #B --> J(Their Happiness)
 C --> D
