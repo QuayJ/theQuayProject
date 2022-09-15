@@ -1,4 +1,6 @@
 # Quays Possibilities
 ### CAREER GOALS 
 
-I just want to be Successful
+-Expand my network
+-It would be nice to win/earn an award
+-Be in a leadership postion
