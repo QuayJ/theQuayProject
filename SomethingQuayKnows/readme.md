@@ -1,8 +1,6 @@
-#What Does Quay Know?
-###Here are some things i have learned:
+Quay knows how to trade stocks.
 
-:tent: :fire: :fish: :wood:
+:tent: :fire: :fish:
 
 ==DRAKE==
-
 
